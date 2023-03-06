@@ -4,4 +4,8 @@ public class Hello {
         System.out.println("Hello World!");
         System.out.println("Test?");
     }
+
+    public int testMethod(){
+        return 0;
+    }
 }
