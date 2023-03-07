@@ -9,6 +9,7 @@ public class Hello {
         System.out.println("Test Method");
         System.out.println("Branch Test");
         System.out.println("test20230307");
+        System.out.println("github test");
         return 0;
     }
 }
