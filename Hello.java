@@ -8,6 +8,7 @@ public class Hello {
     public int testMethod() {
         System.out.println("Test Method");
         System.out.println("Branch Test");
+        System.out.println("test20230307");
         return 0;
     }
 }
