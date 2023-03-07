@@ -4,4 +4,10 @@ public class Hello {
         System.out.println("Hello World!");
         System.out.println("Test?");
     }
+
+    public int testMethod() {
+        System.out.println("Test Method");
+        System.out.println("Branch Test");
+        return 0;
+    }
 }
